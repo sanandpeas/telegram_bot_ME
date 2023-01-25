@@ -27,8 +27,8 @@ while True:
                                      "Pragma": "no-cache",
                                      "Cache-Control": "no-cache"})
     data = response.json()
-    items = len(data)
 
+    mint_addresses.clear()
     for i in data:
         mint_addresses.append(i['tokenMint'])
 
@@ -43,6 +43,7 @@ while True:
                                           "Pragma": "no-cache",
                                           "Cache-Control": "no-cache"})
         result = response1.json()
+        trait_.clear()
         for trait in result['results']['attributes']:
             trait_[trait['trait_type']] = trait['value']
 
