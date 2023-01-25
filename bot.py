@@ -28,7 +28,8 @@ async def get_information_cats(message: types.Message):
     for item in data:
         card = f'{hlink(item.get("Title"),item.get("link on site"))}\n' \
                f'{hbold("Коллекция: ")}{item.get("Collection")}\n' \
-               f'{hbold("Цена: ")}{item.get("Price")}\n'
+               f'{hbold("Цена: ")}{item.get("Price")}\n' \
+               f'{hbold("Trait: ")}{item.get("Trait")}\n'
         await message.answer(card)
 
 

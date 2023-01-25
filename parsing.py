@@ -13,6 +13,7 @@ def get_data():
     price = 2
     results = []
     count = 0
+    traitGet = 'Eyes'
     while True:
         response = requests.get(url=f'https://api-mainnet.magiceden.dev/v2/collections/{collection}/listings?offset=0&limit=20',
                                 headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
@@ -46,10 +47,11 @@ def get_data():
             for trait in result['results']['attributes']:
                 trait_[trait['trait_type']] = trait['value']
 
-            if float(result['results']['price']) < float(f'{price}') : #and trait_.get('Glasses') == 'None'
+            if float(result['results']['price']) < float(f'{price}') and trait_.get(traitGet) == 'Lazy':
                 results.append({'link on site': 'https://magiceden.io/item-details/'+result['results']['mintAddress']+'?name='+result['results']['attributes'][0]['value'],
 
                                 'Title':result['results']['title'],
+                                'Trait': traitGet+': '+trait_.get(traitGet),
                                'Collection': result['results']['collectionTitle'],
                                'Price':result['results']['price']
                 })
