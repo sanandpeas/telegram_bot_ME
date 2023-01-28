@@ -1,19 +1,16 @@
 import json
-import time
-
-from bs4 import BeautifulSoup
 import requests
 
+#постоянный мониторинг
 
-
-def get_data():
+def get_data(collection):
     trait_ = {}
-    collection = 'bvdcat'
     mint_addresses = []
     price = 2
     results = []
     count = 0
-    traitGet = 'Eyes'
+    type_trait = 'Lazy'
+    main_trait = 'Eyes'
     while True:
         response = requests.get(url=f'https://api-mainnet.magiceden.dev/v2/collections/{collection}/listings?offset=0&limit=20',
                                 headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
@@ -47,11 +44,10 @@ def get_data():
             for trait in result['results']['attributes']:
                 trait_[trait['trait_type']] = trait['value']
 
-            if float(result['results']['price']) < float(f'{price}') and trait_.get(traitGet) == 'Lazy':
+            if float(result['results']['price']) < float(f'{price}') and trait_.get(main_trait) == type_trait:
                 results.append({'link on site': 'https://magiceden.io/item-details/'+result['results']['mintAddress']+'?name='+result['results']['attributes'][0]['value'],
-
                                 'Title':result['results']['title'],
-                                'Trait': traitGet+': '+trait_.get(traitGet),
+                                'Trait': main_trait+': '+trait_.get(main_trait),
                                'Collection': result['results']['collectionTitle'],
                                'Price':result['results']['price']
                 })
