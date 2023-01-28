@@ -1,26 +1,26 @@
+
+
+import telebot
 import json
-
-from aiogram import Bot, Dispatcher,executor, types
-from aiogram.dispatcher.filters import Text
-from parsing import get_data
 from aiogram.utils.markdown import hbold,hlink
-
-bot = Bot(token='5641417625:AAE7fVz2613J4eU-vMoVzsa577l3wp9cmhU', parse_mode=types.ParseMode.HTML)
-desp = Dispatcher(bot)
-
-@desp.message_handler(commands='start')
-async def start(message: types.Message):
-    buttons = ['bvdcat', 'pixel guild']
-    keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    keyboard.add(*buttons)
-
-    await message.answer('Выберите категорию', reply_markup=keyboard)
+from parsing import get_data
 
 
-@desp.message_handler(Text(equals='bvdcat'))
-async def get_information_cats(message: types.Message):
-    await message.answer('Waiting...')
-    get_data()
+bot = telebot.TeleBot('5856369779:AAFFBjAZl5vI3SVN9Z_pbjokOEG08IGyY9Q')
+
+
+
+@bot.message_handler(commands=['start'])
+def start(message):
+    sent = bot.reply_to(message, "Название коллекции")
+    bot.register_next_step_handler(sent,get_information_cats)
+
+
+
+
+def get_information_cats(message):
+    message_to_save = message.text
+    get_data(message_to_save)
 
     with open('result.json') as file:
         data = json.load(file)
@@ -30,18 +30,8 @@ async def get_information_cats(message: types.Message):
                f'{hbold("Коллекция: ")}{item.get("Collection")}\n' \
                f'{hbold("Цена: ")}{item.get("Price")}\n' \
                f'{hbold("Trait: ")}{item.get("Trait")}\n'
-        await message.answer(card)
 
-
-
-
-
-
-def main():
-    executor.start_polling(desp)
-
-
-if __name__ == '__main__':
-    main()
+        bot.send_message(message.chat.id, card,parse_mode='html')
+bot.polling()
 
 
