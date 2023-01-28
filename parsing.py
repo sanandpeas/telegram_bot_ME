@@ -3,14 +3,12 @@ import requests
 
 #постоянный мониторинг
 
-def get_data(collection):
+def get_data(collection,price,main_trait,type_trait):
     trait_ = {}
     mint_addresses = []
-    price = 2
     results = []
     count = 0
-    type_trait = 'Lazy'
-    main_trait = 'Eyes'
+
     while True:
         response = requests.get(url=f'https://api-mainnet.magiceden.dev/v2/collections/{collection}/listings?offset=0&limit=20',
                                 headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',

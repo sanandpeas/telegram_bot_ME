@@ -1,5 +1,3 @@
-
-
 import telebot
 import json
 from aiogram.utils.markdown import hbold,hlink
@@ -12,15 +10,20 @@ bot = telebot.TeleBot('5856369779:AAFFBjAZl5vI3SVN9Z_pbjokOEG08IGyY9Q')
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    sent = bot.reply_to(message, "Название коллекции")
-    bot.register_next_step_handler(sent,get_information_cats)
 
+    collection = bot.reply_to(message, "Введите название коллекции, цену, trait и вид trait (Пример: bvdcat 2 Glasses None) ")
+    bot.register_next_step_handler(collection,get_information_cats)
 
 
 
 def get_information_cats(message):
-    message_to_save = message.text
-    get_data(message_to_save)
+    ms = message.text
+    information = ms.split()
+    collection = information[0].lower()
+    price = information[1].replace(',', '.')
+    trait = information[2].title()
+    type_trait = information[3].title()
+    get_data(collection, price, trait, type_trait)
 
     with open('result.json') as file:
         data = json.load(file)
@@ -31,7 +34,8 @@ def get_information_cats(message):
                f'{hbold("Цена: ")}{item.get("Price")}\n' \
                f'{hbold("Trait: ")}{item.get("Trait")}\n'
 
-        bot.send_message(message.chat.id, card,parse_mode='html')
+        bot.send_message(message.chat.id, card, parse_mode='html')
+
 bot.polling()
 
 
