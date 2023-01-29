@@ -22,8 +22,22 @@ def get_information_cats(message):
     collection = information[0].lower()
     price = information[1].replace(',', '.')
     trait = information[2].title()
-    type_trait = information[3].title()
-    get_data(collection, price, trait, type_trait)
+    print(len(information))
+    print(information)
+    if len(information) == 4:
+        type_trait = information[3].title()
+        get_data(collection, price, trait, type_trait)
+    elif len(information) == 5:
+        type_trait = information[3].title() + ' ' + information[4].title()
+        get_data(collection, price, trait, type_trait)
+    elif len(information) == 6:
+        type_trait = information[3].title() + ' ' + information[4].title() + ' ' + information[5].title()
+        get_data(collection, price, trait, type_trait)
+    elif len(information) == 7:
+        type_trait = information[3].title() + ' ' + information[4].title() + ' ' + information[5].title() + ' ' \
+                     + information[6].title()
+        get_data(collection, price, trait, type_trait)
+
 
     with open('result.json') as file:
         data = json.load(file)
