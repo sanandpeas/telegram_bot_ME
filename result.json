@@ -1,302 +1,37 @@
 [
     {
-        "pdaAddress": "53veiaRmtEJiRML18r1WnQjAhbhLXqTk21MHQ5D5hWRg",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "BS84iVJbfoBt2nZx4XEAYYbWjQR4fHEadKobtnZZLr49",
-        "tokenMint": "EbKiJ4iRYiskdBvNBH8q4QeYPdXv1faGLjJ611du3HgQ",
-        "seller": "48qhf3vteC7YGb6L7BbDmm2XEjS2B6H3GNQFaMQp9REZ",
-        "sellerReferral": "HJgUymKQitTgTgQQqBgJUQ7KN5oNcEA5Uis65E8bQeS5",
-        "tokenSize": 1,
-        "price": 9,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/882.png"
-        },
-        "expiry": -1
+        "link on site": "https://magiceden.io/item-details/D2dDDfUd8yi5KwA2PwqpRDsWfBUvMEjPWcfYhij83zD8?name=Beige",
+        "Title": "BVDCAT #4737",
+        "Trait": "Glasses: None",
+        "Collection": "BVDCAT",
+        "Price": 1.45
     },
     {
-        "pdaAddress": "53k2w63kd89p1PxdcRxCKKb7oAXgrbduNE5FXwUfRWc4",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "CJWnKUhGgmCBo32tRD8Zmrt29sneNeaxMuTLUmPVXrJ5",
-        "tokenMint": "Cdvc1k41NxQ4PehMyDdCtZdjKrAVtCtDzuousGas8DAT",
-        "seller": "7oDhLpiAgFTkUzdyXgY2qjEprqHSTN7b8BRStuF7yNDg",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 8.2,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/4813.png"
-        },
-        "expiry": -1
+        "link on site": "https://magiceden.io/item-details/3MNVCxWsuxhPP313hDJB1gFUrpsiVbFSTkUqBYmMHo4Q?name=Beige",
+        "Title": "BVDCAT #5796",
+        "Trait": "Glasses: None",
+        "Collection": "BVDCAT",
+        "Price": 1.449
     },
     {
-        "pdaAddress": "4yoHmQHFgaQbi2DCNM1WtrSfmh3p4swFEATKveafbojM",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "nse79VFSVFHZyM92ukAbKkpMmzdJ4eKsMGVHtYhyXRh",
-        "tokenMint": "HaLawTZLnsEWzXDK8krxdAu2SM6T4qQWJCKWaFLGQGzR",
-        "seller": "HBS9GKxDBM89ADg8o8Dja6Z5LCHdbaQtwZLXtULyRHnn",
-        "sellerReferral": "E13fN1Z1K1QJWb27syvqc4druXSXPnJJQYgw2Z4NL3Xw",
-        "tokenSize": 1,
-        "price": 20,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/eaa92332f4434f95b61c543aef41e8920b34efb7.png"
-        },
-        "expiry": -1
+        "link on site": "https://magiceden.io/item-details/HnYbzThKvoWuwFiVU3FajQsNCTiGb6j32XmVF4N8YJrE?name=Green",
+        "Title": "BVDCAT #9838",
+        "Trait": "Glasses: None",
+        "Collection": "BVDCAT",
+        "Price": 1.74
     },
     {
-        "pdaAddress": "5e1Eeaqv8qffkDyRv7gJNQC5AHtUCjjYJzygypNtYR2t",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "6Btv5tAD4Q6sTSUqfuPUbgMaznnkLCdv1AwNRxY7diMo",
-        "tokenMint": "6v8zAUvraH3SUF3ZSibDjB3kAPungMndmbAPVvL5QvWD",
-        "seller": "62wQD4tHKpaXLQKYoq4gTd6erXobr7q7bWQBFY9Fx5PE",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 7,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/d21fd1d85f4d4ae2d91cc39cbfb3d4ac7262b0c9.png"
-        },
-        "expiry": -1
+        "link on site": "https://magiceden.io/item-details/HMUrLvNMVvkfQ2ACtf4NPkME6SbySZVMkAAb87i5FiCX?name=Blue",
+        "Title": "BVDCAT #4964",
+        "Trait": "Glasses: None",
+        "Collection": "BVDCAT",
+        "Price": 1.545
     },
     {
-        "pdaAddress": "4wqUxdLWtf5h7wCCcoCAbzyQSuR8651nLtUa32uKdep7",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "Bom5FrjycstE8Ms2CcNpWaoYEPk8wZnkRAWRJE29Dhrq",
-        "tokenMint": "GYbhHYmnWFMDs3rStyAMkbHC21K4Nqm4xE3gp8v2y46F",
-        "seller": "G82gjkkxaU5ycZ5TLCf9H83YNpbWLviZGXYs8or471N9",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 4.2,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/8403.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4wkBbVaJhgRPo4p9u6gwmdnGFgRHxuS77H4XxDvxFin9",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "3ZLCQZfnDy8e9Pt53c42fZbHsRTzQSaNvi73XsNxd9RR",
-        "tokenMint": "8b5sRkH1rhmzbhbs3WPkjFnsvKkxAAuMpdGSLqG6xPFm",
-        "seller": "6g4B5xGeprb8ZSqtCvkx8HhZDN5gVhZFB2V7vayADR6s",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 8,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/7946.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4wYuG5Z7mcuoLBnHnrSN6N2PSav5tSAdc5QQKj5mCjAF",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "3Xs418cB6VZsER94y3VJBdioiFLtWZoPvKAwZrAovJq6",
-        "tokenMint": "2Te9CEqvnaQFPonZ3VYvzLmtNxTktqvuNeCoEmLMU89q",
-        "seller": "6YGXFsUvWz4Xb3n6wEFWSuFsZp7HDGkmGfZsS81GGjt9",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 19,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/2483.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4wRcjkaTicotnVcwycPCXTbkWcKGhVH8n4bm1VAMavUv",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "5UBsNNvud4SK1Nksv7FYohKZwKW1BCbij8ufpRXjuwiE",
-        "tokenMint": "7ZcSq5y73RmDSHAUvUzuUaVUjPPuxeBo72G6T6cATCzX",
-        "seller": "FsqCDptSTLVw9SYfZZ6FCwjp5EjpmQDcJETzgEfdjTpq",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 4,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/8811.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "ARTHTDEzH5Cx5KS5Er77rjF8gMK5vxyzNaUmwvtMWEpH",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "FMATabXyDHXbYMdn5onzu7tiFigbXon8doYpbKrsikoT",
-        "tokenMint": "6WYhSkpbvytY2kTL3KfBXAL7RDDvZ8PCEPWe2nEaXN6U",
-        "seller": "3EiSDA2bvp4Hzvee8KGWshfkkByfwHvVuYiUU7a8mqHi",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.075,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/413d573e110b56204ecd8f8a7dac7ee6e65e1d62.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4stenLrfd1o3puMrn9SXrxLc8C1CFuz8R3izbfpPFghp",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "H1qv3Rz7kjVUrHCeWHYQmRgqcsvXoMX6WScfn43BN9Lm",
-        "tokenMint": "7tMAmr62f8qCeVaktnM1sGxncVGKA6npkj53Th1vFDAs",
-        "seller": "Eg6gDWmzRT7mdrL21Uwto7WzTWmE2JEmCi45o3F7cWLX",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 25,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/3032.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "H28p6CtMvBsfwecYxnHvcd3xEvmMwZ2Lge7yyoeGNBHU",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "kn3QTDvDx8jdZfbCiPqrF9hPfdtgpfo1HbG1gSAFrj4",
-        "tokenMint": "3sw9rLkr1s19vCdMy4bwFHYRppHThbnuwTHQvNexs9e3",
-        "seller": "GctnxVPxFXDvruSR4zEXwRum5VhMv6pncnh5jtEded26",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.077,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/7406.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4rJXxdqZ6Tjtw1n51k9AFdLhngwLHWFNPM6ySnJ9coZd",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "EFTmZi2pPdnwxZqdjSMpiibghnjp7evLQ59QtJDifdkw",
-        "tokenMint": "DpU4Dt9FdjyzZY3fsYgVKqQMZPjv63MCPQJtHUEGxCtT",
-        "seller": "FpS7bnwX72jaDoyqycgNW1MaCuFdQwwBuXgXJzNnWfNu",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 6,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/1a7fa65291c7594ab5e4ff7e76802f8543cd690f.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4qRw1xjkUov8Nq7oSYZjKxArZ9EqAuWMPr6LKoiMmtWg",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "EwBaHmmh8ik5Pcjyzrc3QksQE5DmKkC9NRWyyd5Zx8TK",
-        "tokenMint": "FSwM3oMQE5tfn4xnYQkmYtrpA2YjAwf8Eq2phkYW2pat",
-        "seller": "kSwBNkXhyAevfPXQCiB93TCEESyxWpaFc4vyUtTUyyL",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.9,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/8382.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4pE43dWGyNvVZTbLZP2hK3iykywLcypsrTkNnPkKBxm9",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "DHRbBiUeUVvXFhx68DS14oME6ssGEAH8pvRFHYrMCZa8",
-        "tokenMint": "HPoQijTNHd8mzYxr55z3iHMMEgctu9X3LQ5ufytk9hxU",
-        "seller": "5Ki5c1eoezNxwsGuNynrJjJfmEwmX1wLSspYABhgnpan",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 50,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/f6f4f0ad13c0bacb88b80101ed0f3b295a9cb6bd.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "C5tB7a8Avm9qAAcwnQG63CPHJg2mQ6q7k2X8VijgWpww",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "HnmsKyUwQUNgSJNR5xZ1ae4E5sFbCeMivrSGHjDrD8fU",
-        "tokenMint": "xrt9GgnMbo6rfB8oEiiWGFUoV82irmfcEbyZSc1YJYC",
-        "seller": "AMBBTcrv2MaGKVTVNRoSZx5oZJxN4DpWtQT6r5q5jNQQ",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 4.8,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/349eb63d2c4d2d7342726fc4452ce646a5edd34d.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "3A5b94RCLiH4RhjM8UdNsongmcLjg21MHXPyreJmSFzp",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "Bboum7PF7vJiHdRLdiVDyE3WrggGSBHrAGuuyroCqb1s",
-        "tokenMint": "D9bAs5Vg2tBRPe9R6AMGSbXYnV1DZ28zQj9jm2ffKCB8",
-        "seller": "3FJM4S6foWPQFozbk9gzm8KVxeXk43wdbDSt2EvKzrUE",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.0799,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/b4ce33039d1985eb84cab6f4ae7f292a6e293983.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "Boe9e8MKmFGf5nYdfhVFfwVurEmJcpH8JbzU4qrfCTBX",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "BZfugP4YVD5KE5BMbEmZsePPRkUMcPaPR9PybZ4xWpzh",
-        "tokenMint": "HS94AuW49kGQG3Cv1dWatfEnbw8itnEDsXHocXLHnQbD",
-        "seller": "8JhdVCGQDrB57LGsKYByDzHuKJEJWEpX8tEHZu3D61XJ",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.08,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/35a2ce47cbce962866c033a0df2e82c2b1914cf4.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4YmVr3Dty9UdyYvcfTE5PHy2tcBnPhppsaqEyE9beZdX",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "5Gfbnw3B9Kioj4ZbFukiDjEK8ynmjKzprj3GPXZrPFL2",
-        "tokenMint": "ELXGqUo8UNKJ38PxRTv9KEZu6MbcSRjFHFnL4zNS5L7T",
-        "seller": "3FJM4S6foWPQFozbk9gzm8KVxeXk43wdbDSt2EvKzrUE",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.08,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/2911.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4jitBXT4KPoRnieyLnYzJiWZUEoinsqiPPU15ieWM6mJ",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "9CD4WJVKMkfPDSkNDVRt8ddeNnTkDMy6uMTgVZ4uuKB2",
-        "tokenMint": "H63D8y6EpnCEDxPkerACfXan7VuvfM1CNWmn3Qmx2fbn",
-        "seller": "3EiSDA2bvp4Hzvee8KGWshfkkByfwHvVuYiUU7a8mqHi",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 2.7,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/4545.png"
-        },
-        "expiry": -1
-    },
-    {
-        "pdaAddress": "4jgGP1PSm9jDCbUrNWJoJkweZYx4zDRMsQW78wPmAKoE",
-        "auctionHouse": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
-        "tokenAddress": "4apWSnrzSwT69LSaG6VvQUe2Hne1G7HWJTq8hhuLUrw4",
-        "tokenMint": "6Ma5fwHGLcPjCwe94hHe17GvixNuxsrgWMGdqepgwDtV",
-        "seller": "FTNBe5K1oBvQsdKHvrMtX6NZJAPYbYM3meDs1PjiE2mk",
-        "sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
-        "tokenSize": 1,
-        "price": 6,
-        "rarity": {},
-        "extra": {
-            "img": "https://shdw-drive.genesysgo.net/CjscEgskhZAYCHuwYWz8uzL8EYbnLLpPyPyMNd5nHEMH/724b1b04d9da178a12b3598eea4668678ad970e4.png"
-        },
-        "expiry": -1
+        "link on site": "https://magiceden.io/item-details/7Datyr6g2hEgqXsmgyTgcRyX8KwSGwL8VWGqrbfjkQXP?name=Purple",
+        "Title": "BVDCAT #5419",
+        "Trait": "Glasses: None",
+        "Collection": "BVDCAT",
+        "Price": 1.9
     }
 ]
